@@ -5,7 +5,7 @@ title:               Sonetos
 tagline:             'by Pablo Neruda'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/pabloneruda'
+baseurl:             '/pabloneruda/'
 
 # About/contact
 author:
